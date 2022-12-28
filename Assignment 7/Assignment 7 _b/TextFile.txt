@@ -1,0 +1,3 @@
+Customer Name:bhakti
+Account Number:1234
+Balance:40000
