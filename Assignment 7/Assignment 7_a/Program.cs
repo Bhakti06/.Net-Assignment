@@ -11,7 +11,7 @@ namespace Assignment_7_a
         static void Main(string[] args)
         {
             // create directory
-            String path = @"C:\Users\BSUDHIRT\C# ASSIGNMENTS\Assignment 7_a";
+            String path = @"C:\Users\BSUDHIRT\CsharpBasic\Assignment 7\Assignment 7_a";
 
             DirectoryInfo fl = new DirectoryInfo(path);
             fl.Create();
